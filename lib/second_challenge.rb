@@ -15,7 +15,3 @@ def second_challenge
       #your key/value pairs here!
       }
     end
-  
-
-
-
