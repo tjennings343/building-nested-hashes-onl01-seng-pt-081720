@@ -20,4 +20,3 @@ def fourth_challenge
    }
 }
 end
-end
